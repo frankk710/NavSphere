@@ -70,6 +70,14 @@
           "description": "萝卜头IT论坛-大众化的电脑知识交流论坛",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.luobotou.org",
           "enabled": true
+        },
+        {
+          "id": "site_1764671066125_tgtqeh8ny",
+          "title": "Routerclub",
+          "href": "https://bbs.routerclub.com/member.php?mod=connect",
+          "description": ",自由的生活_软路由",
+          "icon": "/assets/favicon_1764671054493.png",
+          "enabled": true
         }
       ],
       "subCategories": []
