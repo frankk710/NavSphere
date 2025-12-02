@@ -223,6 +223,14 @@
               "description": "认识 NotebookLM：给力的 AI 研究工具与思考伙伴，可以帮助您分析来源、理清复杂的资料及转换内容。",
               "icon": "/assets/favicon_1764162265139.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1764682669670_ytckrs9o4",
+              "title": "Aippt",
+              "href": "https://www.aippt.com/",
+              "description": "访问 www.aippt.com",
+              "icon": "/assets/favicon_1764682657058.png",
+              "enabled": true
             }
           ]
         },
