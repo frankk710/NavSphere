@@ -22,6 +22,14 @@
           "description": "访问 www.emulatedlab.com",
           "icon": "/assets/favicon_1764669016284.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764669135657_pqtt4dgv3",
+          "title": "如此玩",
+          "href": "https://www.ruciwan.com/",
+          "description": "访问 www.ruciwan.com",
+          "icon": "/assets/favicon_1764669128762.png",
+          "enabled": true
         }
       ],
       "subCategories": []
