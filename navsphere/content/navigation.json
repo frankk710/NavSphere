@@ -166,6 +166,14 @@
               "description": "",
               "icon": "/assets/favicon_1764676658598.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1764679902882_fqklq3a14",
+              "title": "MetaAI",
+              "href": "https://www.meta.ai/",
+              "description": "访问 www.meta.ai",
+              "icon": "/assets/favicon_1764679890661.png",
+              "enabled": true
             }
           ]
         },
