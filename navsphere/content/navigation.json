@@ -102,7 +102,16 @@
       "id": "9",
       "title": "AI工具",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764674867156_4tswl1oc9",
+          "title": "Perplexity",
+          "href": "https://www.perplexity.ai/?login-source=oneTapHome",
+          "description": "访问 www.perplexity.ai",
+          "icon": "/assets/favicon_1764674852428.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
