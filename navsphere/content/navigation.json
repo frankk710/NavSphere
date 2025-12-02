@@ -231,6 +231,14 @@
               "description": "访问 www.aippt.com",
               "icon": "/assets/favicon_1764682657058.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764682708086_e0ky2a6ek",
+              "title": "Felo ",
+              "href": "https://felo.ai/search?utm_source=ai-bot.cn",
+              "description": "",
+              "icon": "/assets/favicon_1764682690898.ico",
+              "enabled": true
             }
           ]
         },
