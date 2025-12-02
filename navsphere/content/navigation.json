@@ -239,6 +239,14 @@
               "description": "Felo - 免费搜索全球网站，通过实时AI问答助手帮助你发现和理解世界知识。支持AI PPT生成、AI思维导图生成、AI阅读网页/PDF、AI论文搜索、AI生图、文件AI分析等超强大功能！",
               "icon": "/assets/favicon_1764682730748.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1764684400546_29donpygj",
+              "title": "个人收藏夹",
+              "href": "https://dhy.ama.netlib.re/",
+              "description": "",
+              "icon": "/assets/favicon_1764684387860.png",
+              "enabled": true
             }
           ]
         },
