@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1764666779822",
+      "title": "论坛签到",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1430,15 +1439,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1764666779822",
-      "title": "论坛签到",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
