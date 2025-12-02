@@ -38,6 +38,14 @@
           "description": "",
           "icon": "/assets/favicon_1764669852585.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764669892830_zadd7sj7j",
+          "title": "精睿论坛",
+          "href": "https://bbs.vc52.cn/",
+          "description": "访问 bbs.vc52.cn",
+          "icon": "/assets/favicon_1764669878611.png",
+          "enabled": true
         }
       ],
       "subCategories": []
