@@ -14,6 +14,14 @@
           "description": "访问 www.right.com.cn",
           "icon": "/assets/favicon_1764666866391.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764669029946_jws5wnc0t",
+          "title": "Emulatedlab",
+          "href": "https://www.emulatedlab.com/thread-939-1-1.html",
+          "description": "访问 www.emulatedlab.com",
+          "icon": "/assets/favicon_1764669016284.png",
+          "enabled": true
         }
       ],
       "subCategories": []
