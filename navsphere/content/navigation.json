@@ -281,6 +281,14 @@
               "description": "The fastest path from prompt to production with Gemini",
               "icon": "/assets/favicon_1760605601454.png",
               "enabled": true
+            },
+            {
+              "id": "site_1764682630846_35g3z7izs",
+              "title": "Flow",
+              "href": "https://labs.google/flow/about",
+              "description": "Where the next wave of storytelling happens with Veo.",
+              "icon": "/assets/favicon_1764682615433.png",
+              "enabled": true
             }
           ]
         },
