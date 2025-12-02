@@ -78,6 +78,14 @@
           "description": ",自由的生活_软路由",
           "icon": "/assets/favicon_1764671054493.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764671094619_fmrowko89",
+          "title": "ROS软路由论坛 - RouterOS Winbox 中文版 - ROS教程 - ROS脚本生成器 - ROS之家 -  Powered by Discuz!",
+          "href": "http://www.rosabc.com/",
+          "description": "ROSABC是国内对ROS研究最深入的论坛，它聚集了国内最早一批使用ROS的网络管理员和网络工程师。ROSABC拥有大量原创ROS教程、ROS脚本生成器、Winbox中文版。ROS教程和ROS设置包括hotspot(web认证)、vpn、radius、vlan、端口映射、限速、pcc、防火墙等。除了ROS以外，网站还涉及大量思科、华为等路由器交换机配置方法。",
+          "icon": "/assets/favicon_1764671084527.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
