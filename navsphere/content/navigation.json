@@ -30,6 +30,14 @@
           "description": "访问 www.ruciwan.com",
           "icon": "/assets/favicon_1764669128762.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764669862071_ttmtq5kaf",
+          "title": "52破解",
+          "href": "https://www.52pojie.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1764669852585.png",
+          "enabled": true
         }
       ],
       "subCategories": []
