@@ -102,7 +102,16 @@
       "id": "9",
       "title": "AI工具",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764676684286_dcsd029li",
+          "title": "copilot",
+          "href": "https://copilot.microsoft.com/chats/6JPJPos67H5h6r1fJYHMm",
+          "description": "",
+          "icon": "/assets/favicon_1764676658598.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
