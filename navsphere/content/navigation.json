@@ -62,6 +62,14 @@
           "description": "访问 bbs.vlan5.com",
           "icon": "/assets/favicon_1764669972913.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764671028347_ss4hlrt6y",
+          "title": "萝卜头IT论坛-大众化的电脑知识交流论坛 -  Powered by Discuz!",
+          "href": "https://bbs.luobotou.org/bstra/",
+          "description": "萝卜头IT论坛-大众化的电脑知识交流论坛",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.luobotou.org",
+          "enabled": true
         }
       ],
       "subCategories": []
