@@ -46,6 +46,14 @@
           "description": "访问 bbs.vc52.cn",
           "icon": "/assets/favicon_1764669878611.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764669958998_d7bpvx5eh",
+          "title": "鸿鹄论坛",
+          "href": "https://bbs.hh010.com/forum.php",
+          "description": "访问 bbs.hh010.com",
+          "icon": "/assets/favicon_1764669949992.png",
+          "enabled": true
         }
       ],
       "subCategories": []
