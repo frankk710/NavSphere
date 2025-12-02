@@ -1430,6 +1430,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1764666779822",
+      "title": "论坛签到",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
