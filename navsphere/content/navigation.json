@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764666874703_9a5e051p7",
+          "title": "Right",
+          "href": "https://www.right.com.cn/forum/forum-169-1.html",
+          "description": "访问 www.right.com.cn",
+          "icon": "/assets/favicon_1764666866391.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
