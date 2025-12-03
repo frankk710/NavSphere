@@ -459,6 +459,14 @@
           "description": "。。。。。。。。。。。。。。",
           "icon": "/assets/favicon_1764735176597.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764735230848_c0ev7nu0g",
+          "title": "Google地图",
+          "href": "https://www.google.com/maps/?hl=zh-cn",
+          "description": "访问 www.google.com",
+          "icon": "/assets/favicon_1764735225196.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
