@@ -475,6 +475,14 @@
           "description": "FOFA 是白帽汇推出的一款网络空间搜索引擎，它通过进行网络空间测绘，能够帮助研究人员或者企业迅速进行网络资产匹配，例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。",
           "icon": "/assets/favicon_1764735276073.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764735318755_h6wuvun76",
+          "title": "大数据最佳实践",
+          "href": "https://bigdata.icu/",
+          "description": "大数据最佳实践，发现数据的价值，创造无限可能。",
+          "icon": "/assets/favicon_1764735315077.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
