@@ -665,6 +665,14 @@
           "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
           "icon": "/assets/favicon_1764745435808.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764745477922_lwboyl0hs",
+          "title": "OpenSpeedTest™",
+          "href": "https://openspeedtest.com",
+          "description": "Run a free Internet Speed Test in your browser. No app needed. Fast, accurate HTML5 SpeedTest for any device measuring download, upload, ping, and jitter.",
+          "icon": "/assets/favicon_1764745468546.png",
+          "enabled": true
         }
       ],
       "subCategories": []
