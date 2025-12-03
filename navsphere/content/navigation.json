@@ -641,6 +641,14 @@
           "description": "IPv4 Address Lookup, IPv6 Address Lookup",
           "icon": "/assets/favicon_1764744672875.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764745363938_yfge1ms44",
+          "title": "ping0.cc",
+          "href": "https://ping0.cc/",
+          "description": "",
+          "icon": "/assets/favicon_1764745360101.png",
+          "enabled": true
         }
       ],
       "subCategories": []
