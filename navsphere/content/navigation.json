@@ -628,6 +628,15 @@
       "subCategories": []
     },
     {
+      "id": "1764743717012",
+      "title": "网络检测",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1760610695230",
       "title": "投资者工具包",
       "icon": "Building",
@@ -1726,15 +1735,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1764743717012",
-      "title": "网络检测",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
