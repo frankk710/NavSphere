@@ -559,6 +559,14 @@
           "description": "个人导航页面，提供常用网站链接和工具集合，让您快速访问常用资源",
           "icon": "/assets/favicon_1764735003845.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764735038060_jt8cx91rm",
+          "title": "零度博客 - 专注分享免费实用软件、AI黑科技、有趣网站及电脑系统相关安装教程！",
+          "href": "https://www.freedidi.com/",
+          "description": "零度博客，专注于分享免费实用软件、AI 开源工具、电脑系统安装教程及实用网站推荐，帮助用户发现有趣且实用的最新科技资源。",
+          "icon": "/assets/favicon_1764735032522.png",
+          "enabled": true
         }
       ],
       "subCategories": []
