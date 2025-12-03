@@ -436,6 +436,14 @@
           "description": "智能人员系统WEB工作平台",
           "icon": "/assets/favicon_1764723738537.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764729791819_659c1637f",
+          "title": "CF",
+          "href": "https://dash.cloudflare.com/",
+          "description": "访问 dash.cloudflare.com",
+          "icon": "/assets/favicon_1764729779842.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
