@@ -503,6 +503,14 @@
           "description": "甬哥侃侃侃博客，分享代理协议一键脚本，让小白的你一键搞定",
           "icon": "/assets/favicon_1764734768919.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764734808566_j66ob0eb3",
+          "title": "奶油博客",
+          "href": "https://naiyous.com/",
+          "description": "",
+          "icon": "/assets/favicon_1764734796876.png",
+          "enabled": true
         }
       ],
       "subCategories": []
