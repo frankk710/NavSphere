@@ -444,6 +444,14 @@
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1764729779842.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764729824131_6z1zgdlqo",
+          "title": "QQ邮箱",
+          "href": "https://mail.qq.com/?cancel_login=true&from=session_timeout",
+          "description": "访问 mail.qq.com",
+          "icon": "/assets/favicon_1764729813217.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
