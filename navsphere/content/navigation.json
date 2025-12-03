@@ -527,6 +527,14 @@
           "description": "",
           "icon": "/assets/favicon_1764734872384.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764734907754_vr4f2p5it",
+          "title": "程序员哈利",
+          "href": "https://hali.life/",
+          "description": "访问 hali.life",
+          "icon": "/assets/favicon_1764734901134.png",
+          "enabled": true
         }
       ],
       "subCategories": []
