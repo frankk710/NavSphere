@@ -1726,6 +1726,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1764743717012",
+      "title": "网络检测",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
