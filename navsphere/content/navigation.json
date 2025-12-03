@@ -681,6 +681,14 @@
           "description": "",
           "icon": "/assets/favicon_1764745492700.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764745577652_x0rhj2bys",
+          "title": "Fast.com",
+          "href": "https://fast.com/",
+          "description": "How fast is your download speed? In seconds, FAST.com&#39;s simple Internet speed test will estimate your ISP speed.",
+          "icon": "/assets/favicon_1764745566649.png",
+          "enabled": true
         }
       ],
       "subCategories": []
