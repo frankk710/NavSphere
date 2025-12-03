@@ -455,7 +455,16 @@
       "icon": "Coffee",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764731877818_w4hw6v6q6",
+          "title": "七尺宇 ",
+          "href": "https://www.qichiyu.com/",
+          "description": "七尺宇的个人博客,博主踩坑笔记,以及经验分享",
+          "icon": "/assets/favicon_1764731864212.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
