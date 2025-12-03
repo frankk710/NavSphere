@@ -689,6 +689,14 @@
           "description": "How fast is your download speed? In seconds, FAST.com&#39;s simple Internet speed test will estimate your ISP speed.",
           "icon": "/assets/favicon_1764745566649.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764745609640_4mnoky7at",
+          "title": " Cloudflare测速",
+          "href": "https://speed.cloudflare.com/",
+          "description": "Test your Internet connection. Check your network performance with our Internet speed test. Powered by Cloudflare&#x27;s global edge network.",
+          "icon": "/assets/favicon_1764745591491.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
