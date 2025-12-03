@@ -487,6 +487,14 @@
           "description": "访问 www.dmjf.top",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dmjf.top",
           "enabled": true
+        },
+        {
+          "id": "site_1764734750882_sigr19g21",
+          "title": "猪猫博客 - Fly Universe",
+          "href": "https://fly-uni.com/",
+          "description": "Fly Universe",
+          "icon": "/assets/favicon_1764734743216.png",
+          "enabled": true
         }
       ],
       "subCategories": []
