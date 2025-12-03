@@ -463,6 +463,14 @@
           "description": "七尺宇的个人博客,博主踩坑笔记,以及经验分享",
           "icon": "/assets/favicon_1764731864212.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764731931514_9bvs85tb0",
+          "title": "CM喂饭干货满满",
+          "href": "https://blog.cmliussss.com/",
+          "description": "我是一位闲得蛋疼的正红旗少先队大队长。我的开源项目诞生于日常生活中遇到的各种小难题和需求。 感谢你的到访，希望你在这里能找到你需要的知识和教程。",
+          "icon": "/assets/favicon_1764731916778.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
