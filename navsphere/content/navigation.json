@@ -436,14 +436,6 @@
           "description": "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
           "icon": "/assets/favicon_1764304640963.png",
           "enabled": true
-        },
-        {
-          "id": "site_1764722431400_5t3xjqmuw",
-          "title": "CF",
-          "href": "https://dash.cloudflare.com/68f588b11fadb233b44a32b2e7ebe638/websites",
-          "description": "访问 dash.cloudflare.com",
-          "icon": "/assets/favicon_1764722409800.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
