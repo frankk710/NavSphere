@@ -471,6 +471,14 @@
           "description": "我是一位闲得蛋疼的正红旗少先队大队长。我的开源项目诞生于日常生活中遇到的各种小难题和需求。 感谢你的到访，希望你在这里能找到你需要的知识和教程。",
           "icon": "/assets/favicon_1764731916778.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764734673908_f6urae3bf",
+          "title": "数字套利 ",
+          "href": "https://amclubss.com/",
+          "description": "技术分享满满干货",
+          "icon": "/assets/favicon_1764734658602.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
