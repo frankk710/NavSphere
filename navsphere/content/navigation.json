@@ -657,6 +657,14 @@
           "description": "",
           "icon": "/assets/favicon_1764745391455.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764745449094_ab1e0xinm",
+          "title": "谷歌测速",
+          "href": "https://fiber.google.com/speedtest/",
+          "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
+          "icon": "/assets/favicon_1764745435808.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
