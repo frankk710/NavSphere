@@ -479,6 +479,14 @@
           "description": "技术分享满满干货",
           "icon": "/assets/favicon_1764734658602.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764734709322_qmuyxbz87",
+          "title": "代码飓风",
+          "href": "https://www.dmjf.top/page/2",
+          "description": "访问 www.dmjf.top",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dmjf.top",
+          "enabled": true
         }
       ],
       "subCategories": []
