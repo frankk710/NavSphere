@@ -511,6 +511,14 @@
           "description": "",
           "icon": "/assets/favicon_1764734796876.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764734849956_do6kk6iti",
+          "title": "千狐的博客 ",
+          "href": "https://blog.qianhuya.me/",
+          "description": "",
+          "icon": "/assets/favicon_1764734837651.png",
+          "enabled": true
         }
       ],
       "subCategories": []
