@@ -649,6 +649,14 @@
           "description": "",
           "icon": "/assets/favicon_1764745360101.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764745418336_x0t177irk",
+          "title": "SpeedTest",
+          "href": "https://www.speedtest.net/zh-Hans",
+          "description": "",
+          "icon": "/assets/favicon_1764745391455.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
