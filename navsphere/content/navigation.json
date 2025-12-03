@@ -633,7 +633,16 @@
       "icon": "LayoutGrid",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764744687205_fkdoozy1k",
+          "title": "IP.SB",
+          "href": "https://ip.sb/",
+          "description": "IPv4 Address Lookup, IPv6 Address Lookup",
+          "icon": "/assets/favicon_1764744672875.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
