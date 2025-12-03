@@ -673,6 +673,14 @@
           "description": "Run a free Internet Speed Test in your browser. No app needed. Fast, accurate HTML5 SpeedTest for any device measuring download, upload, ping, and jitter.",
           "icon": "/assets/favicon_1764745468546.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764745505047_3cd6hvolh",
+          "title": "中国科大测速",
+          "href": "https://test.ustc.edu.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1764745492700.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
