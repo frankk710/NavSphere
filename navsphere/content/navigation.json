@@ -697,6 +697,14 @@
           "description": "Test your Internet connection. Check your network performance with our Internet speed test. Powered by Cloudflare&#x27;s global edge network.",
           "icon": "/assets/favicon_1764745591491.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764746190616_q2amf7v8f",
+          "title": "2025全球IP数据库 ",
+          "href": "https://www.qqzeng.com/ip/",
+          "description": "qqzeng-ip提供2025年12月最新全球IP数据库，支持IP查询，可精准返回国家、省份、城市、运营商、时区等信息，数据每日更新",
+          "icon": "/assets/favicon_1764746166708.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
