@@ -491,6 +491,14 @@
           "description": "在线生成自签名SSL证书/X509证书以及国密SM2证书，在线自签名SSL证书生成，HTTPS证书生成，可用于SSL/HTTPS测试等，支持生成自签名CA证书。",
           "icon": "/assets/favicon_1764742916761.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1764742998584_o2v0fucgz",
+          "title": "Duckdns-免费ddns",
+          "href": "https://www.duckdns.org/",
+          "description": "访问 www.duckdns.org",
+          "icon": "/assets/favicon_1764742979637.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
