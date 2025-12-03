@@ -443,6 +443,14 @@
           "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail.google.com",
           "enabled": true
+        },
+        {
+          "id": "site_1764735124528_lry5ss8md",
+          "title": "云航 CloudNav",
+          "href": "https://cloudnav.ama.netlib.re/",
+          "description": "",
+          "icon": "/assets/favicon_1764735119020.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
