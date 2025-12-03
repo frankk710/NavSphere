@@ -543,6 +543,14 @@
           "description": "欢迎访问秋名山博客！",
           "icon": "/assets/favicon_1764734946255.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764734988894_zd3duepwq",
+          "title": "Joeyblog",
+          "href": "https://joeyblog.net/",
+          "description": "访问 joeyblog.net",
+          "icon": "/assets/favicon_1764734982131.png",
+          "enabled": true
         }
       ],
       "subCategories": []
