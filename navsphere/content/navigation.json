@@ -519,6 +519,14 @@
           "description": "",
           "icon": "/assets/favicon_1764734837651.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764734885302_7a3iaasbq",
+          "title": "tweek资源分享",
+          "href": "https://tweek.top/",
+          "description": "",
+          "icon": "/assets/favicon_1764734872384.png",
+          "enabled": true
         }
       ],
       "subCategories": []
