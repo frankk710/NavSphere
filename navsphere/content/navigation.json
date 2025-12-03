@@ -483,6 +483,14 @@
           "description": "大数据最佳实践，发现数据的价值，创造无限可能。",
           "icon": "/assets/favicon_1764735315077.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764742929154_b7dx2882c",
+          "title": "在线生成自签名SSL证书",
+          "href": "https://bkssl.com/ssl/selfsign",
+          "description": "在线生成自签名SSL证书/X509证书以及国密SM2证书，在线自签名SSL证书生成，HTTPS证书生成，可用于SSL/HTTPS测试等，支持生成自签名CA证书。",
+          "icon": "/assets/favicon_1764742916761.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
